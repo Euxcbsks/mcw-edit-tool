@@ -1,0 +1,2 @@
+class SubmoduleMissingError(FileNotFoundError):
+	pass

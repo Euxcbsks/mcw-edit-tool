@@ -1,9 +1,9 @@
-[submodule "mcw-edit-tool/mcp"]
-	path = mcw-edit-tool/mcp
-	url = https://github.com/euxcbsks/mcp
 [submodule "tool_pack/mcp"]
 	path = tool_pack/mcp
 	url = https://github.com/MCW-My-Colony-Wiki/mcp
 [submodule "tool_pack/tam"]
 	path = tool_pack/tam
-	url = https://github.com/MCW-My-Colony-Wiki/MCW_template-and-module
+	url = https://github.com/MCW-My-Colony-Wiki/wiki-template-and-module
+[submodule "tool_pack/pwb"]
+	path = tool_pack/pwb
+	url = https://github.com/MCW-My-Colony-Wiki/pywikibot
