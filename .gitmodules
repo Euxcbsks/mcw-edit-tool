@@ -4,6 +4,3 @@
 [submodule "tool_pack/tam"]
 	path = tool_pack/tam
 	url = https://github.com/MCW-My-Colony-Wiki/wiki-template-and-module
-[submodule "tool_pack/pwb"]
-	path = tool_pack/pwb
-	url = https://github.com/MCW-My-Colony-Wiki/pywikibot
