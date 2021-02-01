@@ -1,0 +1,8 @@
+*.pyc
+*.html
+
+mcp/source/
+mcp/test/
+
+__main__.py
+config.json
