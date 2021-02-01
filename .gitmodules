@@ -1,6 +1,0 @@
-[submodule "tool_pack/mcp"]
-	path = tool_pack/mcp
-	url = https://github.com/MCW-My-Colony-Wiki/mcp
-[submodule "tool_pack/tam"]
-	path = tool_pack/tam
-	url = https://github.com/MCW-My-Colony-Wiki/wiki-template-and-module
